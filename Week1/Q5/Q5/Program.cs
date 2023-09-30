@@ -4,6 +4,10 @@
     {
         static void Main(string[] args)
         {
+            //Challenge 5
+            /*A console app that uses a do-while loop to display a list of options to the user. 
+             * The app must then read an integer option from the user and display the correct message based on the user’s chosen option. 
+             * Once the user enters 0, you should display a “Goodbye” message and end the application.*/
             int option = 0;
             do
             {
