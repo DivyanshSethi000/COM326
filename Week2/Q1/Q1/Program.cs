@@ -43,9 +43,15 @@
         }
         static void Main(string[] args)
         {
-            PrintMenu();
-            string greeting = GetMessage(GetOption());
-            Console.WriteLine(greeting);
+            int option = 0;
+            do
+            {
+                PrintMenu();
+                option = GetOption();
+                string greeting = GetMessage(option);
+                Console.WriteLine(greeting);
+            } while (option != 0);
+           
         }
     }
 }
