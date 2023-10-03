@@ -1,0 +1,14 @@
+U:\COM326\COM326\Week2\Q1\Q1\bin\Debug\net7.0\Q1.exe
+U:\COM326\COM326\Week2\Q1\Q1\bin\Debug\net7.0\Q1.deps.json
+U:\COM326\COM326\Week2\Q1\Q1\bin\Debug\net7.0\Q1.runtimeconfig.json
+U:\COM326\COM326\Week2\Q1\Q1\bin\Debug\net7.0\Q1.dll
+U:\COM326\COM326\Week2\Q1\Q1\bin\Debug\net7.0\Q1.pdb
+U:\COM326\COM326\Week2\Q1\Q1\obj\Debug\net7.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+U:\COM326\COM326\Week2\Q1\Q1\obj\Debug\net7.0\Q1.AssemblyInfoInputs.cache
+U:\COM326\COM326\Week2\Q1\Q1\obj\Debug\net7.0\Q1.AssemblyInfo.cs
+U:\COM326\COM326\Week2\Q1\Q1\obj\Debug\net7.0\Q1.csproj.CoreCompileInputs.cache
+U:\COM326\COM326\Week2\Q1\Q1\obj\Debug\net7.0\Q1.dll
+U:\COM326\COM326\Week2\Q1\Q1\obj\Debug\net7.0\refint\Q1.dll
+U:\COM326\COM326\Week2\Q1\Q1\obj\Debug\net7.0\Q1.pdb
+U:\COM326\COM326\Week2\Q1\Q1\obj\Debug\net7.0\Q1.genruntimeconfig.cache
+U:\COM326\COM326\Week2\Q1\Q1\obj\Debug\net7.0\ref\Q1.dll
