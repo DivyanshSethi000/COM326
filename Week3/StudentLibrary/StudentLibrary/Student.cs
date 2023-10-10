@@ -26,7 +26,7 @@
 
         public static int StudentCount { get { return studentCount; } }
 
-        public Student() 
+        public Student()
         {
             name = "John Doe";
             age = 16;
