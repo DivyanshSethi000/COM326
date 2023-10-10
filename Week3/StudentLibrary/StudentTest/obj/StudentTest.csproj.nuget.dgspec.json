@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM\\Week3\\StudentLibrary\\StudentTest\\StudentTest.csproj": {}
+    "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM326\\Week3\\StudentLibrary\\StudentTest\\StudentTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM\\Week3\\StudentLibrary\\StudentLibrary\\StudentLibrary.csproj": {
+    "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM326\\Week3\\StudentLibrary\\StudentLibrary\\StudentLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM\\Week3\\StudentLibrary\\StudentLibrary\\StudentLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM326\\Week3\\StudentLibrary\\StudentLibrary\\StudentLibrary.csproj",
         "projectName": "StudentLibrary",
-        "projectPath": "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM\\Week3\\StudentLibrary\\StudentLibrary\\StudentLibrary.csproj",
+        "projectPath": "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM326\\Week3\\StudentLibrary\\StudentLibrary\\StudentLibrary.csproj",
         "packagesPath": "C:\\Users\\Divse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM\\Week3\\StudentLibrary\\StudentLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM326\\Week3\\StudentLibrary\\StudentLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM\\Week3\\StudentLibrary\\StudentTest\\StudentTest.csproj": {
+    "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM326\\Week3\\StudentLibrary\\StudentTest\\StudentTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM\\Week3\\StudentLibrary\\StudentTest\\StudentTest.csproj",
+        "projectUniqueName": "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM326\\Week3\\StudentLibrary\\StudentTest\\StudentTest.csproj",
         "projectName": "StudentTest",
-        "projectPath": "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM\\Week3\\StudentLibrary\\StudentTest\\StudentTest.csproj",
+        "projectPath": "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM326\\Week3\\StudentLibrary\\StudentTest\\StudentTest.csproj",
         "packagesPath": "C:\\Users\\Divse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM\\Week3\\StudentLibrary\\StudentTest\\obj\\",
+        "outputPath": "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM326\\Week3\\StudentLibrary\\StudentTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +93,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM\\Week3\\StudentLibrary\\StudentLibrary\\StudentLibrary.csproj": {
-                "projectPath": "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM\\Week3\\StudentLibrary\\StudentLibrary\\StudentLibrary.csproj"
+              "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM326\\Week3\\StudentLibrary\\StudentLibrary\\StudentLibrary.csproj": {
+                "projectPath": "C:\\Users\\Divse\\Desktop\\Uni Imp Stuff\\YEAR 2\\COM326\\Week3\\StudentLibrary\\StudentLibrary\\StudentLibrary.csproj"
               }
             }
           }

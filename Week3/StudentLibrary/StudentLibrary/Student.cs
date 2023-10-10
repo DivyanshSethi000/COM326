@@ -3,11 +3,9 @@
     public class Student
     {
         private int id;
-
         public int Id { get { return id; } }
 
         private string name;
-
         public string Name
         {
             get { return name; }
@@ -15,7 +13,6 @@
         }
 
         private int age;
-
         public int Age
         {
             get { return age; }
@@ -23,7 +20,6 @@
         }
 
         private static int studentCount = 0;
-
         public static int StudentCount { get { return studentCount; } }
 
         public Student()
