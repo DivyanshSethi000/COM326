@@ -5,6 +5,10 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My2DArrayProject", "My2DArrayProject\My2DArrayProject.csproj", "{5BD5088D-BFDB-4229-806D-A94A663B6369}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentListProject", "StudentListProject\StudentListProject.csproj", "{3C40BB8A-5192-4310-9692-064B5526E384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentListTest", "StudentListTest\StudentListTest.csproj", "{A4F86BAD-EA41-4C63-8FFC-460B19AA3AAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5BD5088D-BFDB-4229-806D-A94A663B6369}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BD5088D-BFDB-4229-806D-A94A663B6369}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BD5088D-BFDB-4229-806D-A94A663B6369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C40BB8A-5192-4310-9692-064B5526E384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C40BB8A-5192-4310-9692-064B5526E384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C40BB8A-5192-4310-9692-064B5526E384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C40BB8A-5192-4310-9692-064B5526E384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4F86BAD-EA41-4C63-8FFC-460B19AA3AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4F86BAD-EA41-4C63-8FFC-460B19AA3AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4F86BAD-EA41-4C63-8FFC-460B19AA3AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4F86BAD-EA41-4C63-8FFC-460B19AA3AAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

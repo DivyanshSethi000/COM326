@@ -1,0 +1,34 @@
+﻿namespace StudentListProject
+{
+    public class Student
+    {
+        private int id; //creating a field of int type 'id'
+        public int Id { get { return id; } }//creating the property for the field above
+
+        private string name;//creating a field of string type 'name'
+        public string Name { get { return name; } set { name = value; } } //creating the property for the field above
+
+        private int age;//creating a field of int type 'age'
+        public int Age { get { return age; } set { age = value; } }//creating the property for the field above
+
+        private static int studentCount = 0;//creating a static int type field 
+        public static int StudentCount { get { return studentCount; } }//creating the property for the field above
+
+        public Student() //creating the default constructor
+        {
+            name = "John Doe";
+            age = 16;
+            id = ++studentCount;
+        }
+        public Student(string name, int age) //creating the custom constructor with parameters
+        {
+            this.name = name; //setting the value of 'name' acc to the parameter
+            this.age = age; //setting the value of 'age' acc to the parameter
+            id = ++studentCount;
+        }
+        public void Display() //creating the void method printing out the info of the object instantiated
+        {
+            Console.WriteLine($"ID: {id}, Name: {name}, Age: {age}");
+        }
+    }
+}
