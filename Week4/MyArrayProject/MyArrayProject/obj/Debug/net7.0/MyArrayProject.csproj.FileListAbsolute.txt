@@ -12,3 +12,17 @@ C:\Users\Divse\Desktop\Uni Imp Stuff\YEAR 2\COM326\Week4\MyArrayProject\MyArrayP
 C:\Users\Divse\Desktop\Uni Imp Stuff\YEAR 2\COM326\Week4\MyArrayProject\MyArrayProject\obj\Debug\net7.0\MyArrayProject.pdb
 C:\Users\Divse\Desktop\Uni Imp Stuff\YEAR 2\COM326\Week4\MyArrayProject\MyArrayProject\obj\Debug\net7.0\MyArrayProject.genruntimeconfig.cache
 C:\Users\Divse\Desktop\Uni Imp Stuff\YEAR 2\COM326\Week4\MyArrayProject\MyArrayProject\obj\Debug\net7.0\ref\MyArrayProject.dll
+U:\COM326\COM326\Week4\MyArrayProject\MyArrayProject\bin\Debug\net7.0\MyArrayProject.exe
+U:\COM326\COM326\Week4\MyArrayProject\MyArrayProject\bin\Debug\net7.0\MyArrayProject.deps.json
+U:\COM326\COM326\Week4\MyArrayProject\MyArrayProject\bin\Debug\net7.0\MyArrayProject.runtimeconfig.json
+U:\COM326\COM326\Week4\MyArrayProject\MyArrayProject\bin\Debug\net7.0\MyArrayProject.dll
+U:\COM326\COM326\Week4\MyArrayProject\MyArrayProject\bin\Debug\net7.0\MyArrayProject.pdb
+U:\COM326\COM326\Week4\MyArrayProject\MyArrayProject\obj\Debug\net7.0\MyArrayProject.GeneratedMSBuildEditorConfig.editorconfig
+U:\COM326\COM326\Week4\MyArrayProject\MyArrayProject\obj\Debug\net7.0\MyArrayProject.AssemblyInfoInputs.cache
+U:\COM326\COM326\Week4\MyArrayProject\MyArrayProject\obj\Debug\net7.0\MyArrayProject.AssemblyInfo.cs
+U:\COM326\COM326\Week4\MyArrayProject\MyArrayProject\obj\Debug\net7.0\MyArrayProject.csproj.CoreCompileInputs.cache
+U:\COM326\COM326\Week4\MyArrayProject\MyArrayProject\obj\Debug\net7.0\MyArrayProject.dll
+U:\COM326\COM326\Week4\MyArrayProject\MyArrayProject\obj\Debug\net7.0\refint\MyArrayProject.dll
+U:\COM326\COM326\Week4\MyArrayProject\MyArrayProject\obj\Debug\net7.0\MyArrayProject.pdb
+U:\COM326\COM326\Week4\MyArrayProject\MyArrayProject\obj\Debug\net7.0\MyArrayProject.genruntimeconfig.cache
+U:\COM326\COM326\Week4\MyArrayProject\MyArrayProject\obj\Debug\net7.0\ref\MyArrayProject.dll
