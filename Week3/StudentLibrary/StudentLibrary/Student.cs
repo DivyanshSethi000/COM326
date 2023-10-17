@@ -36,6 +36,7 @@
         {
             this.name = name; //setting the value of 'name' acc to the parameter
             this.age = age; //setting the value of 'age' acc to the parameter
+            id = ++studentCount;
         }
         public void Display() //creating the void method printing out the info of the object instantiated
         {
