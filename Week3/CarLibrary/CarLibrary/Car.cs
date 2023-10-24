@@ -21,14 +21,14 @@
             year = 2004;
             engine = new Engine();
         }
-        public Car(string make, string model, int year, Engine engine) //creating the custom constructor with its parameters
+        /*public Car(string make, string model, int year, Engine engine) //creating the custom constructor with its parameters
         {
             this.make = make;
             this.model = model;
             this.year = year;
             this.engine = engine;
-        }
-        public Car(string make, string model, int year, int cyl, double horsepower)
+        }*/
+        public Car(string make, string model, int year, int cyl, double horsepower) //creating the Car's custom constructor with its parameters along with the Engine's custom constructor with its parameters
         {
             this.make = make;
             this.model = model;
