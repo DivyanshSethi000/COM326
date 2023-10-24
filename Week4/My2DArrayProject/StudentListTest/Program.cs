@@ -14,6 +14,25 @@ namespace StudentListTest
             students.Add(new Student("James Anderson", 22));
             students.Add(new Student("Mia Patel", 20));
 
+            //Another method where user input is used instead of hard coding
+            /*
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("Please enter your name: ");
+                string name = Console.ReadLine();
+                if (string.IsNullOrWhiteSpace(name) == true)
+                {
+                    while (string.IsNullOrWhiteSpace(name) == true) 
+                    {
+                        Console.WriteLine("Please enter your name: ");
+                        name = Console.ReadLine();
+                    }
+                }
+                Console.WriteLine("Please enter your age: ");
+                int age = Convert.ToInt32(Console.ReadLine());
+                students.Add(new Student(name, age));
+            }*/
+            
             foreach(var student in students) //using a for each loop 
             {
                 student.Display(); //displaying all the students in the list 
