@@ -28,6 +28,13 @@
             this.year = year;
             this.engine = engine;
         }
+        public Car(string make, string model, int year, int cyl, double horsepower) //creating the Car's custom constructor with its parameters along with the Engine's custom constructor with its parameters
+        {
+            this.make = make;
+            this.model = model;
+            this.year = year;
+            this.engine = new Engine(cyl, horsepower);
+        }
         public void Drive() //creating a void method which uses the engine class to start the engine and print that the car is in drive mode. 
         {
             engine.Start();

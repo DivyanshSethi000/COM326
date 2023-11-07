@@ -1,8 +1,8 @@
 ﻿/*
- * Classname or filename)
+ * Classname or filename
  *  
  * Version information
- * Author:
+ * Author: Divyansh Sethi
  * Date:
  * 
  * Copyright notice
