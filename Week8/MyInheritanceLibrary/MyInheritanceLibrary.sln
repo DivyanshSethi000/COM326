@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyInheritanceLibrary", "MyInheritanceLibrary\MyInheritanceLibrary.csproj", "{3FE83A45-8D74-4EDB-B55B-8BC6516CA063}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyInheritanceLibrary", "MyInheritanceLibrary\MyInheritanceLibrary.csproj", "{3FE83A45-8D74-4EDB-B55B-8BC6516CA063}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalTest", "AnimalTest\AnimalTest.csproj", "{609430A6-16BA-4833-8773-93276B0049EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalLists", "AnimalLists\AnimalLists.csproj", "{48FAB86E-3E3C-420A-91F3-56DDEA3D0944}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{3FE83A45-8D74-4EDB-B55B-8BC6516CA063}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FE83A45-8D74-4EDB-B55B-8BC6516CA063}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FE83A45-8D74-4EDB-B55B-8BC6516CA063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{609430A6-16BA-4833-8773-93276B0049EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609430A6-16BA-4833-8773-93276B0049EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609430A6-16BA-4833-8773-93276B0049EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609430A6-16BA-4833-8773-93276B0049EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48FAB86E-3E3C-420A-91F3-56DDEA3D0944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48FAB86E-3E3C-420A-91F3-56DDEA3D0944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48FAB86E-3E3C-420A-91F3-56DDEA3D0944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48FAB86E-3E3C-420A-91F3-56DDEA3D0944}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
