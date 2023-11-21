@@ -1,5 +1,4 @@
 ﻿using MyInheritanceLibrary;
-using System.ComponentModel.DataAnnotations;
 
 namespace AnimalLists
 {
