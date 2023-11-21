@@ -39,7 +39,10 @@
             set { radius = value; } 
         }
 
-        public Circle() : base() { }
+        public Circle() : base() 
+        {
+            Radius = 0.0;
+        }
 
         public Circle(string name, string color, double radius) : base(name, color)
         {
@@ -66,8 +69,17 @@
             get { return length; }
             set { length = value; }
         }
+        public double Width
+        {
+            get { return width; }
+            set { width = value; }
+        }
 
-        public Rectangle() : base() { }
+        public Rectangle() : base() 
+        {
+            Length = 0.0;
+            Width = 0.0;
+        }
 
         public Rectangle(string name, string color, double length, double width) : base(name, color)
         {
@@ -102,7 +114,11 @@
             set { height = value; }
         }
 
-        public Triangle() : base() { }
+        public Triangle() : base() 
+        {
+            BaseLength = 0.0;
+            Height = 0.0;
+        }
 
         public Triangle(string name, string color, double baseLength, double height) : base(name, color) 
         {
@@ -124,7 +140,10 @@
             set { sideLength = value; }
         }
 
-        public Isosceles() : base() { }
+        public Isosceles() : base() 
+        {
+            SideLength = 0.0;
+        }
 
         public Isosceles(string name, string color, double baseLength, double sideLength) : base(name, color, baseLength,0)
         {
