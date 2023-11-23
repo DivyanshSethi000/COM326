@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ZooTest/1.0.0": {
+        "dependencies": {
+          "ZooLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ZooTest.dll": {}
+        }
+      },
+      "ZooLibrary/1.0.0": {
+        "runtime": {
+          "ZooLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZooTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZooLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
