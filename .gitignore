@@ -1,2 +1,17 @@
 
 Week9/ZooLibrary/.vs/ZooLibrary/FileContentIndex/81b11ddd-9576-498b-b8bd-db293b6488b5.vsidx
+*.bin
+*.v2
+*.vsidx
+*.json
+*.dll
+*.cache
+*.exe
+*.editorconfig
+*.props
+*.pdb
+*.xml
+Week9/ZooLibrary/ZooTests/bin/Debug/net7.0/CoverletSourceRootsMapping
+Week9/ZooLibrary/ZooTests/bin/Release/net7.0/CoverletSourceRootsMapping
+*.targets
+*.BuildWithSkipAnalyzers

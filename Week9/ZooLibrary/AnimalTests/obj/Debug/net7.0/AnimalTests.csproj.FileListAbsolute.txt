@@ -100,3 +100,4 @@ C:\Users\Divse\Desktop\Uni Imp Stuff\YEAR 2\COM326\Week9\ZooLibrary\AnimalTests\
 C:\Users\Divse\Desktop\Uni Imp Stuff\YEAR 2\COM326\Week9\ZooLibrary\AnimalTests\obj\Debug\net7.0\AnimalTests.pdb
 C:\Users\Divse\Desktop\Uni Imp Stuff\YEAR 2\COM326\Week9\ZooLibrary\AnimalTests\obj\Debug\net7.0\AnimalTests.genruntimeconfig.cache
 C:\Users\Divse\Desktop\Uni Imp Stuff\YEAR 2\COM326\Week9\ZooLibrary\AnimalTests\obj\Debug\net7.0\ref\AnimalTests.dll
+C:\Users\Divse\Desktop\Uni Imp Stuff\YEAR 2\COM326\Week9\ZooLibrary\AnimalTests\obj\Debug\net7.0\AnimalTests.sourcelink.json
